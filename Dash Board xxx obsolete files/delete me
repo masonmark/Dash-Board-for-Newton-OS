@@ -1,0 +1,1 @@
+//LOGIC FOR GETTING PARET ENTRY FROM APP SYM OF OPEN APP1. take appsym and get objectpkgref to get package2. get part cursor for package3. iterate thru the vaild parts and find one whose appsym matches appsym

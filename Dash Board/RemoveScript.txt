@@ -1,0 +1,1 @@
+RemoveScript := func(partFrame)begin	if debugON then print("calling RemoveScript!");		if GetRoot().|DBminibar:FiveSpeed|.viewCobject then		begin			GetRoot().|DBminibar:Fivespeed|:Close();			KillStdButtonBar(NIL);		end;end

@@ -1,0 +1,1 @@
+InstallScript := func(partFrame)begin	AddDeferredCall(func()		begin			 GetRoot().(kAppSymbol):Open();		end, nil);	GetRoot().sleepScreen:RegLogin('|login:DB:FiveSpeed|, func() 		begin			if GetRoot().(kAppSymbol) then 				GetRoot().(kAppSymbol):Open();			AddDelayedSend(GetRoot().(kAppSymbol), 'DB_Refresh, nil, 1000); //is THIS the cause??? LATER!		end);end

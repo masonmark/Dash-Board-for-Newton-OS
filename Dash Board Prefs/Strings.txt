@@ -1,0 +1,1 @@
+//strings used with ParamStr()constant kMenuItemHelpStr := "The selected item is a ^0. Choosing \"^1\" from the menu ^2";constant kMoveHelp := "You can move it within the menu by dragging it, or remove it by tapping the Remove Selected Item button.";

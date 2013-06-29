@@ -1,0 +1,1 @@
+BAD SYMBOLS:	'notification = Notify slips;	'filingSLip = file slip from various appies	'currentKeyboard = a slot in base view containing duplicate of open keybd; kybds also have a slot		MAYBE SYMBOLS:	'alphaKeyboard = duh	'numericKeyboard	'phoneKeyboard	'dateKeyboard		//KDB NOTES:	map currentKeyboard to "Keyboard" and dont show alpha, numeric, etc.
