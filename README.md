@@ -44,15 +44,15 @@ Throughout the development of Dash Board
 
 blah blah Mac OS 9 etc etc 
 
-[![sherlock 2, i never knew ye (thank god)](docs/img/sherlock-2.jpg)]
+[![sherlock 2, i never knew ye (thank god)](Documentation/img/sherlock-2.jpg)]
 Um, WTF is this abomination? Was that really a thing?
 
-[![rock out with your sherlock out](docs/img/sherlock-2-expanded.jpg)]
+[![rock out with your sherlock out](Documentation/img/sherlock-2-expanded.jpg)]
 Oh, I guess as long as I can search Rolling Stone online then it's cool.
 
 I don't bring it up merely to ridicule, though, there is a minor point. You may want to do this to prevent ol' Mac OS 9 from trying to index what it sees as an enormous Mac hard disk full of strange alien files from the future... 
 
-[![sherlock 2 indexing is like spotlight indexing squared](docs/img/sherlock-2-protip.jpg)]
+[![sherlock 2 indexing is like spotlight indexing squared](Documentation/img/sherlock-2-protip.jpg)]
 
 Notice that there is no "Don't index anything" option. That still cracks me up.
 
