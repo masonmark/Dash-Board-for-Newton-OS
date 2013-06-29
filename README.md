@@ -36,7 +36,7 @@ However, just because the data could be read, that turned out to not mean that i
 
 *Description forthcoming.*
 
-### Act III — Mac OS X 10.3, That Is
+### Act III — Mac OS X.III, That Is
 
 *Description forthcoming.*
 
@@ -65,7 +65,7 @@ However, just because the data could be read, that turned out to not mean that i
 *Description forthcoming.*
 
 
-## Additional Notes, Musings, and Greivances
+## Additional Notes, Musings, and Grievances
 
 I confirmed that the text "2013" doesn't exist anywhere in the project. So, I decided to annotate all changes to the source code made in 2013, as opposed to the 1990s, with "2013".
 
