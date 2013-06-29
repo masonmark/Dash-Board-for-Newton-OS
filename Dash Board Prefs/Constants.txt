@@ -1,1 +1,1 @@
-constant kVsn := "1.5.1";constant kVsnStr := "Dash Board Prefs" && kVsn;constant kDBSym := '|DashBoard:FiveSpeed|;
+constant kVsn := "1.5.2013d1";constant kVsnStr := "Dash Board Prefs" && kVsn;constant kDBSym := '|DashBoard:FiveSpeed|;
