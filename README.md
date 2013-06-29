@@ -34,15 +34,27 @@ However, just because the data could be read, that turned out to not mean that i
 
 ### Act II — Cockamamie Vagarious Suckage (CVS)
 
-*Description forthcoming.*
+Throughout the development of Dash Board
 
 ### Act III — Mac OS X.III, That Is
 
 *Description forthcoming.*
 
-### Act IV — SheepShaver
+### Act IV — Shaving years off the OS
 
-*Description forthcoming.*
+blah blah Mac OS 9 etc etc 
+
+[![sherlock 2, i never knew ye (thank god)](docs/img/sherlock-2.jpg)]
+Um, WTF is this abomination? Was that really a thing?
+
+[![rock out with your sherlock out](docs/img/sherlock-2-expanded.jpg)]
+Oh, I guess as long as I can search Rolling Stone online then it's cool.
+
+I don't bring it up merely to ridicule, though, there is a minor point. You may want to do this to prevent ol' Mac OS 9 from trying to index what it sees as an enormous Mac hard disk full of strange alien files from the future... 
+
+[![sherlock 2 indexing is like spotlight indexing squared](docs/img/sherlock-2-protip.jpg)]
+
+Notice that there is no "Don't index anything" option. That still cracks me up.
 
 ### Act V — NTK
 
