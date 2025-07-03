@@ -321,13 +321,17 @@ But writing Dash Board *did* make me a programmer. Until then, I'd been studying
         /System/Library/CoreServices/FixupResourceForks .
 
   and do not omit that trailing . or who knows what the hell might happen.
+  
 4. Use the SheepShaver emulator to boot Mac OS 9, and configure it to mount the OS X folder containing the repo as a disk. *Don't copy the repo to your SheepShaver VM's native storage, because it seems to lose the invisible git dirs when copying it back, thereby corrupting the repo.*
 5. Hack, hack, hack, build.
 6. Once you have completed a change you want to commit to the git repo, quit out of Newton Toolkit, and then go back to the OS X side of things. Again cd into the repo root dir, and run this command:
 
+```
         SplitForks .
+```
 
   This will again split the resource forks off of all files who have one, and store them as a separate invisible file (AppleDouble format). This convoluted dance is necessary because git absolutely doesn't work with resource forks and Newton Toolkit absolutely doesn't work without them.
+
 7. Commit your changes, then treat yourself to a frosty beverage.
 
 
