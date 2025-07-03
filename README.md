@@ -241,7 +241,7 @@ Annoying? Sure is. But it's not like there is going to be a whole lot of hacking
 
 So I uploaded this whole project to GitHub. Oh yeah, a GitHub project should really have a README file.
 
-Well, like Abe Lincoln once said to the Dalai Lama, *I would have written you a shorter letter but I didn't have time, broham*. Me, neither; I've just kinda had to bang this README out stream-of-consciousness style, while simultaneously keeping an eye on [one of my newer experimental projects](http://masonmark.com/version-2-dot-0a1/) *and* drinking beer continuously.
+Well, like Abe Lincoln once said to the Dalai Lama, *I would have written you a shorter letter but I didn't have time, broham*. Me, neither; I've just kinda had to bang this README out stream-of-consciousness style, while simultaneously keeping an eye on [one of my newer experimental projects](http://masonmark.com/version-2-dot-0a1) *and* drinking beer continuously.
 
 And so: here we are.
 
